@@ -1,0 +1,40 @@
+[
+
+  {
+    "firstName": "Chuck",
+    "name": "Chuck Bartoski",
+    "birthDate": "1997-09-19",
+    "job": "Technichan",
+    "salary": 40000
+  },
+  {
+    "firstName": "Sarah",
+    "name": "Sarah Walker",
+    "birthDate": "1994-01-12",
+    "job": "Secret Agent",
+    "salary": 100000
+  },
+  {
+    "firstName": "John",
+    "name": "John Casey",
+    "birthDate": "1994-02-25",
+    "job": "Secret Agent",
+    "salary": 100000
+  },
+  {
+    "firstName": "Ellie",
+    "name": "Ellie Bartoski",
+    "birthDate": "1990-06-12",
+    "job": "Doctor",
+    "salary": 100000
+  },
+  {
+    "firstName": "Morgan",
+    "name": "Morgan Grimes",
+    "birthDate": "1997-07-22",
+    "job": "Sales Associate",
+    "salary": 20000
+  }
+
+]
+
